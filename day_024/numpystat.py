@@ -1,8 +1,7 @@
 import numpy as np
- import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 from scipy import stats
+import seaborn as sns
 
 print('numpy:', np.__version__)
 print(dir(np))
